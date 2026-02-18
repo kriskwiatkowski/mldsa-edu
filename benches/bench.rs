@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: MIT
+// SPDX-FileContributor: Kris Kwiatkowski
+
 use criterion::{black_box, criterion_group, criterion_main, BenchmarkId, Criterion};
 use mldsa_edu::{generate_key, sign, verify, MLDSAParameters};
 

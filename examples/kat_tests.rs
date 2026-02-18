@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: MIT
+// SPDX-FileContributor: Kris Kwiatkowski
+
 //! KAT (Known Answer Tests) for ML-DSA implementation
 //! Tests key generation, signature generation, and signature verification
 //! using NIST FIPS-204 test vectors

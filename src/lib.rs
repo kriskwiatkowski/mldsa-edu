@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: MIT
+// SPDX-FileContributor: Kris Kwiatkowski
+
 //! ML-DSA (FIPS-204) Implementation
 //!
 //! Rust implementation of ML-DSA based on FIPS-204 standard.
